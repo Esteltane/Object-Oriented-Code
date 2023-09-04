@@ -1,0 +1,17 @@
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.deps.json
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.runtimeconfig.json
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.runtimeconfig.dev.json
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.dll
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.pdb
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csprojAssemblyReference.cache
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csproj.CoreCompileInputs.cache
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.AssemblyInfoInputs.cache
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.AssemblyInfo.cs
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csproj.CopyComplete
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.dll
+H:\Year2\cw2\cw2\PresentationLayer\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.pdb

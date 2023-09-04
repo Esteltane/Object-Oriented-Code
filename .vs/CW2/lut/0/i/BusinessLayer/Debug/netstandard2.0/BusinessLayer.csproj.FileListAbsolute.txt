@@ -1,0 +1,7 @@
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\b\BusinessLayer\Debug\netstandard2.0\BusinessLayer.deps.json
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\b\BusinessLayer\Debug\netstandard2.0\BusinessLayer.dll
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\BusinessLayer\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\BusinessLayer\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\BusinessLayer\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\BusinessLayer\Debug\netstandard2.0\BusinessLayer.csproj.CopyComplete
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\BusinessLayer\Debug\netstandard2.0\BusinessLayer.dll

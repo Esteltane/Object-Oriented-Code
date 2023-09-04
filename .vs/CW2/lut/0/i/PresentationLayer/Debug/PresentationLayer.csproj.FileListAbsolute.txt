@@ -1,0 +1,17 @@
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\b\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\b\PresentationLayer\bin\Debug\PresentationLayer.exe
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\b\PresentationLayer\bin\Debug\PresentationLayer.pdb
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.csprojAssemblyReference.cache
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.exe.config
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\MainWindow.g.cs
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\App.g.cs
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer_MarkupCompile.cache
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer_MarkupCompile.lref
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\MainWindow.baml
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.g.resources
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.Properties.Resources.resources
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.csproj.GenerateResource.cache
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.csproj.CopyComplete
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.exe
+H:\Year2\cw2\cw2\PresentationLayer\.vs\CW2\lut\0\i\PresentationLayer\Debug\PresentationLayer.pdb
